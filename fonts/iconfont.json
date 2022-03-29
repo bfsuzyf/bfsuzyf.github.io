@@ -1,0 +1,58 @@
+{
+  "id": "3281365",
+  "name": "本地化 导航栏图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "27402300",
+      "name": "登出",
+      "font_class": "dengchu",
+      "unicode": "ee1c",
+      "unicode_decimal": 60956
+    },
+    {
+      "icon_id": "27402302",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "ee15",
+      "unicode_decimal": 60949
+    },
+    {
+      "icon_id": "27402326",
+      "name": "管理员",
+      "font_class": "guanliyuan",
+      "unicode": "ee16",
+      "unicode_decimal": 60950
+    },
+    {
+      "icon_id": "27402344",
+      "name": "申请",
+      "font_class": "shenqing",
+      "unicode": "ee17",
+      "unicode_decimal": 60951
+    },
+    {
+      "icon_id": "27402349",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "ee18",
+      "unicode_decimal": 60952
+    },
+    {
+      "icon_id": "27402371",
+      "name": "合作",
+      "font_class": "hezuo",
+      "unicode": "ee19",
+      "unicode_decimal": 60953
+    },
+    {
+      "icon_id": "27402413",
+      "name": "演讲",
+      "font_class": "yanjiang",
+      "unicode": "ee1a",
+      "unicode_decimal": 60954
+    }
+  ]
+}
